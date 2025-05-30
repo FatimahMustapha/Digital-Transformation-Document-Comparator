@@ -22,8 +22,9 @@
 ## 📷 Live Demo
 
 🌐 [Live Demo](https://your-app-link.streamlit.app/)  
-_Interact with the prototype directly in your browser._
 
+
+![Demo Screenshot](https://github.com/FatimahMustapha/Digital-Transformation-Document-Comparator/blob/main/لقطة%20شاشة%202025-05-10%20180353.png?raw=true)
 ---
 
 ## 🧠 Tech Stack
